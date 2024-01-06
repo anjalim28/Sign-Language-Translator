@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Goodbye.1abff5c6-9f04-11ee-bd99-c03eba220a2d.jpg</filename>
+	<path>D:\Sign Translator\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Goodbye.1abff5c6-9f04-11ee-bd99-c03eba220a2d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goodbye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>219</ymin>
+			<xmax>261</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

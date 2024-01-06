@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Hello.e3b5ac37-9f03-11ee-a993-c03eba220a2d.jpg</filename>
+	<path>D:\Sign Translator\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Hello.e3b5ac37-9f03-11ee-a993-c03eba220a2d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>119</ymin>
+			<xmax>305</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>
